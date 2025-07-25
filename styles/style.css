@@ -48,7 +48,6 @@ flex: 1;
   /* top: 0; */
 }
 
-/* bg-image */
 .back-image{
   background-image: url('../assets/news-letter-bg.png');
   position: relative;
@@ -61,18 +60,17 @@ flex: 1;
 
 }
 
-/* shared item */
-
-/* font color nav*/
 .orange{
   color:#e95a08;
 }
-
+.nav-color-1{
+  color:#252432;
+}
 .nav-color-2{
   color: #8987A1;
 }
 .nav-color-3{
-  color:#000000;
+  color:#000000 ;
 }
 
 /* font common color */
