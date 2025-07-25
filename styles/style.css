@@ -65,16 +65,17 @@ flex: 1;
 
 /* font color nav*/
 .orange{
-  color: rgba(233, 90, 8, 1);
+  color:#e95a08;
 }
 .nav-color-1{
-  color: rgba(37, 36, 50, 1);
+  color:#252432
+ ;
 }
 .nav-color-2{
-  color: rgba(137, 135, 161, 1);
+  color: #8987A1;
 }
 .nav-color-3{
-  color: rgba(0, 0, 0, 1);
+  color:#000000;
 }
 
 /* font common color */
